@@ -26,6 +26,6 @@ def last_element_with_array_methods(south_east_asia)
   my_last_element2 = south_east_asia.last
 end
 
-def length_of_array()
-  
+def length_of_array(programming_languages)
+  length = programming_languages.count
 end
