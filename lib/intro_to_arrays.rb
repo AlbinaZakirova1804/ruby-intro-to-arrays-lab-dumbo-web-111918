@@ -8,7 +8,7 @@ end
 
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   
-def first_elemet(taylor_swift)
+def first_element(taylor_swift)
     my_first_element = taylor_swift[0]
 end
 
