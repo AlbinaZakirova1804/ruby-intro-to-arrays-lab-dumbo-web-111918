@@ -5,8 +5,6 @@ end
 def array_with_two_elements
   @two_elemets_array = ['a', 'b']
 end
-
-  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   
 def first_element(taylor_swift)
     my_first_element = taylor_swift[0]
@@ -21,7 +19,9 @@ def last_element(taylor_swift)
 end
 
 def first_element_with_array_methods(south_east_asia )
-  my_last_element_2 = south_east_asia.first
+  my_first_element_2 = south_east_asia.first
 end
 
 def last_element_with_array_methods(south_east_asia)
+  my_last_element2 = south_east_asia.last
+end
